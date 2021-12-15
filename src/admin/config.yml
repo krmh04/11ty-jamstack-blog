@@ -5,7 +5,7 @@ branch: main
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 collections:
-- name: :"blog"
+  - name: "blog"
   label: "Blog"
   folder: "src/blog"
   create: true
